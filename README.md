@@ -54,6 +54,7 @@ Google Apps Script, который рассчитывает премии на о
 - `generateFullSummary()` — сформировать текстовую и ссылочную сводку
 - `autoSendBonusSummary()` — отправка сводки автоматически по расписанию
 - `generateSummaryForSpreadsheet()` — экспорт в CSV-вид для копирования
+- `forceSendSummaryhNow()` — принудительная отправка сводки
 
 ---
 
